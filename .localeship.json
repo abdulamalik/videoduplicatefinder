@@ -1,5 +1,8 @@
 {
   "sourceLocale": "en",
   "targetLocales": ["ar"],
-  "files": ["VDF.GUI/Assets/Locales/{locale}.json", "VDF.Core/Assets/Locales/{locale}.json"]
+  "files": [
+    "VDF.GUI/Assets/Locales/{locale}.json",
+    "VDF.Core/Assets/Locales/{locale}.json"
+  ]
 }
