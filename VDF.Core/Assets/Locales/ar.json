@@ -1,0 +1,38 @@
+{
+  "Log": {
+    "BuildingFileList": "جارٍ إنشاء قائمة الملفات...",
+    "CrashQuarantine": "تعطّلت جلسة سابقة أثناء معالجة '{0}'. تم وضع علامة على الملف وسيتم تخطيه من الآن فصاعدًا؛ فعّل 'إعادة محاولة أخذ العينات الفاشلة دائمًا' في الإعدادات لإعادة محاولة معالجته.",
+    "DatabaseCheckpoint": "نقطة حفظ لقاعدة البيانات (عدد الملفات المحفوظة على القرص: {0:N0}).",
+    "ExcludedFile": "تم استبعاد '{0}' لأن {1} (الإجمالي حتى الآن: {2:N0}).",
+    "ExcludedFilesSummary": "ملخص الملفات المستبعدة (محدود لكل سبب):",
+    "ExcludedFilesSummaryItem": "- {0}: {1:N0}{2}",
+    "ExcludedFilesSuppressed": " (عدد إدخالات السجل المحجوبة: {0:N0})",
+    "FinishedBuildingFileList": "اكتمل إنشاء قائمة الملفات خلال {0}.",
+    "FinishedGatheringHashes": "اكتمل الجمع وحساب قيم التجزئة خلال {0}.",
+    "FinishedScanForDuplicates": "اكتمل البحث عن الملفات المكررة خلال {0}.",
+    "GatheringMediaInfo": "جارٍ جمع معلومات الوسائط وإنشاء قيم التجزئة...",
+    "HighlightingBestResults": "جارٍ تمييز أفضل النتائج...",
+    "ScanAborted": "تم إلغاء الفحص.",
+    "ScanDone": "اكتمل الفحص.",
+    "ScanForDuplicates": "فحص المكررات...",
+    "SessionCompare": "مقارنة",
+    "SessionScan": "فحص"
+  },
+  "Scan": {
+    "Stage": {
+      "AiDenseSampling": "الذكاء الاصطناعي الجزئي: أخذ عينات من الإطارات الرئيسية",
+      "AiEmbedding": "حساب تضمينات الذكاء الاصطناعي",
+      "AiPartialCompare": "الذكاء الاصطناعي الجزئي: مطابقة المقاطع",
+      "AiPersist": "الذكاء الاصطناعي الجزئي: حفظ ذاكرة الإطارات الرئيسية المؤقتة",
+      "AiPrepare": "الذكاء الاصطناعي الجزئي: التحضير",
+      "AudioFingerprint": "البصمة الصوتية",
+      "ComparingDuplicates": "مقارنة المكررات",
+      "PartialCompare": "مقارنة المقاطع الجزئية",
+      "PartialVisualVerify": "التحقق من المقاطع الجزئية",
+      "Probing": "فحص البيانات الوصفية",
+      "SamplingFrames": "أخذ عينات من الإطارات",
+      "TrackLanguages": "قراءة لغات المسارات",
+      "ValidatingGroups": "التحقق من مجموعات المكررات"
+    }
+  }
+}
